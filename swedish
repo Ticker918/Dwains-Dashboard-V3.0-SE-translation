@@ -18,7 +18,7 @@
             lovelace_card: 'Lovelacekort',
             create_lovelace_card: 'Skapa ett nytt lovelacekort från början',
             dwains_dashboard_blueprint: 'Dwains Dashboard-blueprint',
-            use_dwains_dashboard_blueprint: 'Använd en Dwain Dashboard-blueprint för att skapa ett kort',
+            use_dwains_dashboard_blueprint: 'Använd en Dwains Dashboard-blueprint för att skapa ett kort',
             row_span: 'Radspann',
             row: 'Rad',
             rows: 'Rader',
