@@ -1,7 +1,7 @@
     //SE Swedish
     se: {
         global: {
-            dwains_dashboard_settings: 'Dwains Dashboard-inställningar',
+            dwains_dashboard_settings: 'Dwains Dashboardinställningar',
             enable_edit_mode: 'Aktivera redigeringsläge',
             disable_edit_mode: 'Inaktivera redigeringsläge',
             version: 'Version',
@@ -140,6 +140,6 @@
             use: 'Använd denna blueprint',
             install: 'Installera blueprint',
             yaml_code: 'Blueprint YAML-kod',
-            instruction: 'Leta efter den blueprint du vill installera på Dwains Dashboard Community Blueprints Github och klistra in blueprintens YAML-kod nedanför. Efter en lyckad installation kommer lovelace och denna sida att laddas om. Du kan sedan använda den installerade blueprinten.',
+            instruction: 'Leta upp den blueprint du vill installera på Dwains Dashboard Community Blueprints Github och klistra in blueprintens YAML-kod nedanför. Efter en lyckad installation kommer lovelace och denna sida att laddas om. Du kan sedan använda den installerade blueprinten.',
         }
     },
