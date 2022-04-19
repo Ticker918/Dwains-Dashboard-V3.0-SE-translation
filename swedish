@@ -1,5 +1,5 @@
-    //SE Swedish
-    se: {
+    //SV Swedish
+    sv: {
         global: {
             dwains_dashboard_settings: 'Dwains Dashboardinställningar',
             enable_edit_mode: 'Aktivera redigeringsläge',
