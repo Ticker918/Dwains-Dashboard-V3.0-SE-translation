@@ -8,7 +8,7 @@
             disable_clock: 'Inaktivera klocka',
             settings: 'Globala inställningar',
             dashboard_information: 'Dashboardinformation',
-            alarm_entity: 'Alarmentitet',
+            alarm_entity: 'Larmentitet',
             weather_entity: 'Väderentitet',
             greeting_morning: 'God morgon',
             greeting_afternoon: 'God middag',
@@ -114,6 +114,8 @@
             safety: 'Säkerhet',
             smoke: 'Rök',
             tamper: 'Manipulation',
+            person: 'Person',
+            alarm_control_panel: 'Larmkontrollpanel',
         },
         more: {
             title: 'Mer',
